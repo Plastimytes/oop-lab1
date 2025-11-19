@@ -1,0 +1,8 @@
+# parcels.csv
+parcel_id,recipient,priority,hub_id,destination,weight_kg
+2001,Obi_Wan Kenobi,EXPRESS,10,30,0.5
+2002,Lucas Kalenge,NORMAL,50,20,1.2
+2003,Charles Musoke,express,40,10,0.8
+2004,Xavier Mukibi,Normal,30,50,2.5
+2005,Emily Wadiaka,EXPRESS,20,40,0.3
+2006,Angel Mateka,NORMAL,60,10,1.5
